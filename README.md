@@ -1,6 +1,10 @@
 # WEATHER APP
 
-This project was originally given as a BU-SEN assignment project 3
-This weather app is built using JavaScript, HTML, CSS and a public API.
-To use, just input any state of your choice into yhe search bar and click search. The weather information for
-that state shall appear. 
+A weather app built with HTML, CSS and JavaScript,
+powered by the OpenWeatherMap API which you can access here
+https://openweathermap.org/api
+
+To use, enter any Nigerian state of your choice 
+into the search bar and. Supports all 36 Nigerian states.
+
+Originally built as a BU-SEN assignment project.
